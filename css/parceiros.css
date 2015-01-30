@@ -1,0 +1,12 @@
+﻿div 
+{
+    width:900px;
+    margin: 0 auto;
+}
+
+summary 
+{
+    width:125px;
+    cursor:pointer;
+    font-weight:700;
+}

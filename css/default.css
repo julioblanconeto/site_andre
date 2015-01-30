@@ -1,0 +1,29 @@
+﻿.fundo
+{   
+    min-height:1080px;
+    overflow-x:hidden;
+    overflow-y:scroll;
+    background-repeat:no-repeat;
+    background: -webkit-linear-gradient(white, #1e8fa4, white); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(white, #1e8fa4, white); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(white, #1e8fa4, white); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(white, #1e8fa4, white); /* Standard syntax (must be last) */
+   
+}
+.frame_topo {
+    margin-left:-8px;
+    margin-top:-8px;
+    border:none;
+}
+
+.frame_conteudo 
+{
+     margin-left:-8px;
+     border:none;
+}
+
+.gclasse
+{
+    position:absolute;
+   
+}

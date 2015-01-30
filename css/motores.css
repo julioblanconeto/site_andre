@@ -1,0 +1,26 @@
+﻿.conteudo_geral
+{
+    width:900px;
+    margin:0 auto;
+    overflow: hidden;
+}
+.conteudo_motores
+{
+    margin-left:20px;
+    margin-top:20px;
+    float:left;
+   /* background-color:#fff;*/
+}
+.nome_motores 
+{
+    width:200px;
+    background-color:#fff;
+    color:#0026ff;
+    text-align:center;
+    font-family:Calibri;
+}
+.espaco
+{
+    height:7px;
+    background-color:none;
+}

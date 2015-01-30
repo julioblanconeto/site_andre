@@ -1,0 +1,62 @@
+﻿
+
+.fundo_top
+{
+     background-image:url('../imagem/ocean_top.png'); 
+     width:auto;
+     height:104px;
+     overflow-x:hidden;
+     background-repeat:no-repeat; 
+}
+
+.conteudo 
+{
+    width:1000px;
+    height:129px;
+    margin:0 auto;
+    
+}
+
+nav 
+{
+    margin-left:270px;
+    margin-top: 5px;
+}
+
+.menu
+{
+    color:white;
+    text-shadow:3px 3px black;
+    font-size:17px;
+    margin-left: 10px;
+    margin-right:5px;
+   
+    cursor:pointer;
+}
+
+a:hover 
+{
+    color:#aaf2f7;
+    text-shadow:3px 3px black;
+    font-size:17px;
+}
+.logo 
+{
+    margin-left:28%;
+    margin-top:15px; 
+    margin-bottom:-10px;
+}
+
+.logo_parceiros 
+{
+    margin-top:5px;
+    width:100%;
+    margin-left:21.5%;
+   
+}
+.parceiros_img
+{
+    float:left;
+    margin-left:4px;
+  
+}

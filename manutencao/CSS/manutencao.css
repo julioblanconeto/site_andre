@@ -1,0 +1,65 @@
+  .conteudo {
+        width: 1000px;
+        height: 500px;
+        margin: 0 auto;
+        font-family: #fff;
+        
+    }
+    body  
+    {
+        min-height:800px;
+        overflow-x: hidden;
+        background-repeat:no-repeat;
+       /* background: -webkit-linear-gradient(white, #1e8fa4, white); /* For Safari 5.1 to 6.0 */
+       /* background: -o-linear-gradient(white, #1e8fa4, white); /* For Opera 11.1 to 12.0 */
+       /*background: -moz-linear-gradient(white, #1e8fa4, white); /* For Firefox 3.6 to 15 */
+       /* background: linear-gradient(white, #1e8fa4, white); /* Standard syntax (must be last) */
+       background-color:#000000;
+    
+    }
+     .image {
+        width: 415px;
+        height: 96px;
+        margin: 25px auto 0 auto;
+    }
+
+  
+        div
+        {
+   
+            text-align:center;
+            width:80px;
+            font-family:"Comic Sans MS", cursive;
+            font-size:14px;
+            padding-bottom:5px;
+            margin-top:25px;
+            margin-bottom:-27px;
+            margin-left:18px;
+    
+        }
+
+       
+        .frame_conteudo 
+        {
+             margin-left:-8px;
+             border:none;
+             overflow-y:hidden;
+    
+        }
+
+	.rodape
+	{
+	     margin-top: 10px;
+	     width: 575px;
+	     height: 45px;
+	     background-color: #ffffff;
+	     margin-left:20%;
+ 	    
+	}
+
+	.parceiros_img
+	{
+	    float:left;
+	    margin-left:5px;
+  
+	}
